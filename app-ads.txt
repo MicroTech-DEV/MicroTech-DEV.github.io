@@ -81,3 +81,41 @@ tremorhub.com, rwd19-1019581, RESELLER, 1a4e959a1b50034a
 facebook.com, 1249940345150010, RESELLER, c3e20eee3f780d68
 
 mopub.com, e37e12bd5b434a4f85886070893ab837, DIRECT, 74b46c0ea83967ca
+
+exchange.admazing.co, AM3, RESELLER
+
+pubmatic.com, 160846, RESELLER, 5d62403b186f2ace
+
+pubmatic.com, 156494, RESELLER, 5d62403b186f2ace
+
+indexexchange.com, 194730, RESELLER, 50b1c356f2c5c8fc
+
+indexexchange.com, 186684, RESELLER, 50b1c356f2c5c8fc
+
+lemmatechnologies.com, 362, RESELLER, 7829010c5bebd1fb
+
+reforge.in, 353, RESELLER
+
+rubiconproject.com, 14334, RESELLER, 0bfd66d529a55807
+
+contextweb.com, 562499, RESELLER, 89ff185a4c4e857c
+
+pokkt.com, 7606, RESELLER, c45702d9311e25fd
+
+appnexus.com, 2764, RESELLER
+
+appnexus.com, 10617, RESELLER
+
+appnexus.com, 9393, RESELLER
+
+meitu.com, 282, RESELLER
+
+yandex.com, 40427798, RESELLER
+
+inmobi.com, 61d733c3779d43e590c51c8bc078e10c, RESELLER, 83e75a7ae333ca9d
+
+openx.com, 540838151, RESELLER, 6a698e2ec38604c6
+
+openx.com, 541031350, RESELLER, 6a698e2ec38604c6
+
+appads.in, 107606, RESELLER
