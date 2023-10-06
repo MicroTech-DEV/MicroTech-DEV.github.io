@@ -4,7 +4,7 @@
 [
 {"name":"w1", "premium":"1","thumbUrl":"i1t.jpg", "url":"i1p1.jpg"},
 {"name":"w2", "premium":"1","thumbUrl":"i2t.jpg", "url":"i2p1.jpg"},
-{"name":"w3", "premium":"1","thumbUrl":"i3t.jpg", "url":"i3p1.jpg"},
-{"name":"w4", "premium":"1","thumbUrl":"i4t.jpg", "url":"i4p1.jpg", "url2":"i4p2.png"}
+{"name":"w3", "premium":"0","thumbUrl":"i3t.jpg", "url":"i3p1.jpg"},
+{"name":"w4", "premium":"0","thumbUrl":"i4t.jpg", "url":"i4p1.jpg", "url2":"i4p2.png"}
 ]
 }
